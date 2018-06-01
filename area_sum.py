@@ -1,6 +1,7 @@
 import math
-import ballinbox
-import validate
+import ball_in_box.ballinbox as bb
+import ball_in_box.validate as val
+
 
 def area_sum(circles):
     area = 0.0
